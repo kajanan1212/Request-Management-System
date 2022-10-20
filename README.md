@@ -2,8 +2,8 @@
 Semester 02 - Project, Request Management System.
 
 Team Members:
-    Kajanan Selvanesan
-    Sivakajan Sivaparan
+    \tKajanan Selvanesan
+    \tSivakajan Sivaparan\\
 
 
 // Team mates Update your name and delete this comment
